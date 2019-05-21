@@ -1,3 +1,3 @@
-print("Welcome 1/2/7")
+print("This code written by DEV2")
 
 
